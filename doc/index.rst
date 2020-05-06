@@ -6,9 +6,5 @@
 The documentation has moved
 ===========================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 The documentation is at `https://doc.elabftw.net <https://doc.elabftw.net>`_.
 
